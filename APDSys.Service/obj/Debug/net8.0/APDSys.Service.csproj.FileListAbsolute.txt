@@ -1,0 +1,17 @@
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\bin\Debug\net8.0\APDSys.Service.deps.json
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\bin\Debug\net8.0\APDSys.Service.dll
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\bin\Debug\net8.0\APDSys.Service.pdb
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\bin\Debug\net8.0\APDSys.Model.dll
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\bin\Debug\net8.0\APDSys.Model.pdb
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Debug\net8.0\APDSys.Service.csproj.AssemblyReference.cache
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Debug\net8.0\APDSys.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Debug\net8.0\APDSys.Service.AssemblyInfoInputs.cache
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Debug\net8.0\APDSys.Service.AssemblyInfo.cs
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Debug\net8.0\APDSys.Service.csproj.CoreCompileInputs.cache
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Debug\net8.0\APDSys.S.AA4D90F6.Up2Date
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Debug\net8.0\APDSys.Service.dll
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Debug\net8.0\refint\APDSys.Service.dll
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Debug\net8.0\APDSys.Service.pdb
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Debug\net8.0\ref\APDSys.Service.dll
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\bin\Debug\net8.0\ADPSys.DataAccess.dll
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\bin\Debug\net8.0\ADPSys.DataAccess.pdb

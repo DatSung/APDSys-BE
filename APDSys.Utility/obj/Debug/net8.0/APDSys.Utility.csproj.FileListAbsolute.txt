@@ -1,0 +1,11 @@
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Utility\bin\Debug\net8.0\APDSys.Utility.deps.json
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Utility\bin\Debug\net8.0\APDSys.Utility.dll
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Utility\bin\Debug\net8.0\APDSys.Utility.pdb
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Utility\obj\Debug\net8.0\APDSys.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Utility\obj\Debug\net8.0\APDSys.Utility.AssemblyInfoInputs.cache
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Utility\obj\Debug\net8.0\APDSys.Utility.AssemblyInfo.cs
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Utility\obj\Debug\net8.0\APDSys.Utility.csproj.CoreCompileInputs.cache
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Utility\obj\Debug\net8.0\APDSys.Utility.dll
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Utility\obj\Debug\net8.0\refint\APDSys.Utility.dll
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Utility\obj\Debug\net8.0\APDSys.Utility.pdb
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Utility\obj\Debug\net8.0\ref\APDSys.Utility.dll

@@ -1,0 +1,669 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.api\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|solutionrelative:apdsys.api\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.service\\service\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|solutionrelative:apdsys.service\\service\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.model\\dto\\log\\getlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|solutionrelative:apdsys.model\\dto\\log\\getlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.service\\iservice\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|solutionrelative:apdsys.service\\iservice\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3936EDA-1F42-4A37-9F62-AA9D65D1252C}|ADPSys.DataAccess\\ADPSys.DataAccess.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\adpsys.dataaccess\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3936EDA-1F42-4A37-9F62-AA9D65D1252C}|ADPSys.DataAccess\\ADPSys.DataAccess.csproj|solutionrelative:adpsys.dataaccess\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3936EDA-1F42-4A37-9F62-AA9D65D1252C}|ADPSys.DataAccess\\ADPSys.DataAccess.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\adpsys.dataaccess\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3936EDA-1F42-4A37-9F62-AA9D65D1252C}|ADPSys.DataAccess\\ADPSys.DataAccess.csproj|solutionrelative:adpsys.dataaccess\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|solutionrelative:apdsys.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3936EDA-1F42-4A37-9F62-AA9D65D1252C}|ADPSys.DataAccess\\ADPSys.DataAccess.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\adpsys.dataaccess\\irepository\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3936EDA-1F42-4A37-9F62-AA9D65D1252C}|ADPSys.DataAccess\\ADPSys.DataAccess.csproj|solutionrelative:adpsys.dataaccess\\irepository\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3936EDA-1F42-4A37-9F62-AA9D65D1252C}|ADPSys.DataAccess\\ADPSys.DataAccess.csproj|d:\\outside_sources\\aspnet_core_api\\handon-projects\\apdsys\\adpsys.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3936EDA-1F42-4A37-9F62-AA9D65D1252C}|ADPSys.DataAccess\\ADPSys.DataAccess.csproj|solutionrelative:adpsys.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3936EDA-1F42-4A37-9F62-AA9D65D1252C}|ADPSys.DataAccess\\ADPSys.DataAccess.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\adpsys.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3936EDA-1F42-4A37-9F62-AA9D65D1252C}|ADPSys.DataAccess\\ADPSys.DataAccess.csproj|solutionrelative:adpsys.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3936EDA-1F42-4A37-9F62-AA9D65D1252C}|ADPSys.DataAccess\\ADPSys.DataAccess.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\adpsys.dataaccess\\irepository\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3936EDA-1F42-4A37-9F62-AA9D65D1252C}|ADPSys.DataAccess\\ADPSys.DataAccess.csproj|solutionrelative:adpsys.dataaccess\\irepository\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.service\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|solutionrelative:apdsys.service\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.model\\domain\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|solutionrelative:apdsys.model\\domain\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./APDSysDb/sa/SqlTable/dbo.Logs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3936EDA-1F42-4A37-9F62-AA9D65D1252C}|ADPSys.DataAccess\\ADPSys.DataAccess.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\adpsys.dataaccess\\migrations\\20240429145825_intitalapdsysdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3936EDA-1F42-4A37-9F62-AA9D65D1252C}|ADPSys.DataAccess\\ADPSys.DataAccess.csproj|solutionrelative:adpsys.dataaccess\\migrations\\20240429145825_intitalapdsysdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3936EDA-1F42-4A37-9F62-AA9D65D1252C}|ADPSys.DataAccess\\ADPSys.DataAccess.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\adpsys.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3936EDA-1F42-4A37-9F62-AA9D65D1252C}|ADPSys.DataAccess\\ADPSys.DataAccess.csproj|solutionrelative:adpsys.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.service\\iservice\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|solutionrelative:apdsys.service\\iservice\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|solutionrelative:apdsys.service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|solutionrelative:apdsys.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.api\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|solutionrelative:apdsys.api\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|solutionrelative:apdsys.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|solutionrelative:apdsys.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A542C80-E010-461D-B7E1-5F97E3B86A0C}|APDSys.Utility\\APDSys.Utility.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.utility\\constants\\staticuserroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A542C80-E010-461D-B7E1-5F97E3B86A0C}|APDSys.Utility\\APDSys.Utility.csproj|solutionrelative:apdsys.utility\\constants\\staticuserroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.model\\dto\\message\\getmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|solutionrelative:apdsys.model\\dto\\message\\getmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.model\\dto\\message\\createmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|solutionrelative:apdsys.model\\dto\\message\\createmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.model\\dto\\general\\generalserviceresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|solutionrelative:apdsys.model\\dto\\general\\generalserviceresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.model\\dto\\auth\\userinforesult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|solutionrelative:apdsys.model\\dto\\auth\\userinforesult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.model\\dto\\auth\\updateroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|solutionrelative:apdsys.model\\dto\\auth\\updateroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.model\\dto\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|solutionrelative:apdsys.model\\dto\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.model\\dto\\auth\\medto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|solutionrelative:apdsys.model\\dto\\auth\\medto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.model\\dto\\auth\\loginserviceresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|solutionrelative:apdsys.model\\dto\\auth\\loginserviceresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.model\\dto\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|solutionrelative:apdsys.model\\dto\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.model\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|solutionrelative:apdsys.model\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.model\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|solutionrelative:apdsys.model\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.model\\domain\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|solutionrelative:apdsys.model\\domain\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3936EDA-1F42-4A37-9F62-AA9D65D1252C}|ADPSys.DataAccess\\ADPSys.DataAccess.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\adpsys.dataaccess\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3936EDA-1F42-4A37-9F62-AA9D65D1252C}|ADPSys.DataAccess\\ADPSys.DataAccess.csproj|solutionrelative:adpsys.dataaccess\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 362,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\Program.cs",
+              "RelativeDocumentMoniker": "APDSys.API\\Program.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\Program.cs",
+              "RelativeToolTip": "APDSys.API\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:39:40.011Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99a11807-c5db-4877-ad35-09b56a044002}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "ADPSys.DataAccess\\IRepository\\IRepository.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "ADPSys.DataAccess\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:49:40.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ADPSys.DataAccess\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "ADPSys.DataAccess\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:49:40.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILogService.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\IService\\ILogService.cs",
+              "RelativeDocumentMoniker": "APDSys.Service\\IService\\ILogService.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\IService\\ILogService.cs",
+              "RelativeToolTip": "APDSys.Service\\IService\\ILogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:15:58.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetLogDTO.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\Log\\GetLogDTO.cs",
+              "RelativeDocumentMoniker": "APDSys.Model\\DTO\\Log\\GetLogDTO.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\Log\\GetLogDTO.cs",
+              "RelativeToolTip": "APDSys.Model\\DTO\\Log\\GetLogDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:23:33.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogController.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\Controllers\\LogController.cs",
+              "RelativeDocumentMoniker": "APDSys.API\\Controllers\\LogController.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\Controllers\\LogController.cs",
+              "RelativeToolTip": "APDSys.API\\Controllers\\LogController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:02:21.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\Service\\LogService.cs",
+              "RelativeDocumentMoniker": "APDSys.Service\\Service\\LogService.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\Service\\LogService.cs",
+              "RelativeToolTip": "APDSys.Service\\Service\\LogService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:23:54.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMessageRepository.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\IRepository\\IMessageRepository.cs",
+              "RelativeDocumentMoniker": "ADPSys.DataAccess\\IRepository\\IMessageRepository.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\IRepository\\IMessageRepository.cs",
+              "RelativeToolTip": "ADPSys.DataAccess\\IRepository\\IMessageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:49:41.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ADPSys.DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "ADPSys.DataAccess\\Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:50:39.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "ADPSys.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "ADPSys.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:50:12.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILogRepository.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\IRepository\\ILogRepository.cs",
+              "RelativeDocumentMoniker": "ADPSys.DataAccess\\IRepository\\ILogRepository.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\IRepository\\ILogRepository.cs",
+              "RelativeToolTip": "ADPSys.DataAccess\\IRepository\\ILogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T19:49:41.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "APDSys.Service\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "APDSys.Service\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:46:34.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Log.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\Domain\\Log.cs",
+              "RelativeDocumentMoniker": "APDSys.Model\\Domain\\Log.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\Domain\\Log.cs",
+              "RelativeToolTip": "APDSys.Model\\Domain\\Log.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:23:05.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.Logs [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./APDSysDb/sa/SqlTable/dbo.Logs.sql",
+              "ToolTip": "dbo.Logs [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-29T19:06:02.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240429145825_IntitalAPDSysDb.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\Migrations\\20240429145825_IntitalAPDSysDb.cs",
+              "RelativeDocumentMoniker": "ADPSys.DataAccess\\Migrations\\20240429145825_IntitalAPDSysDb.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\Migrations\\20240429145825_IntitalAPDSysDb.cs",
+              "RelativeToolTip": "ADPSys.DataAccess\\Migrations\\20240429145825_IntitalAPDSysDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:40:43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ADPSys.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ADPSys.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:40:42.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMessageService.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\IService\\IMessageService.cs",
+              "RelativeDocumentMoniker": "APDSys.Service\\IService\\IMessageService.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\IService\\IMessageService.cs",
+              "RelativeToolTip": "APDSys.Service\\IService\\IMessageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:20:56.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\IService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "APDSys.Service\\IService\\IAuthService.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\IService\\IAuthService.cs",
+              "RelativeToolTip": "APDSys.Service\\IService\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:06:06.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "APDSys.API\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\Controllers\\TestController.cs",
+              "RelativeToolTip": "APDSys.API\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:03:01.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "APDSys.API\\Controllers\\MessageController.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "APDSys.API\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:02:33.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "APDSys.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "APDSys.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:01:56.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\appsettings.json",
+              "RelativeDocumentMoniker": "APDSys.API\\appsettings.json",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\appsettings.json",
+              "RelativeToolTip": "APDSys.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T15:46:14.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StaticUserRoles.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Utility\\Constants\\StaticUserRoles.cs",
+              "RelativeDocumentMoniker": "APDSys.Utility\\Constants\\StaticUserRoles.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Utility\\Constants\\StaticUserRoles.cs",
+              "RelativeToolTip": "APDSys.Utility\\Constants\\StaticUserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:29:15.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetMessageDTO.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\Message\\GetMessageDTO.cs",
+              "RelativeDocumentMoniker": "APDSys.Model\\DTO\\Message\\GetMessageDTO.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\Message\\GetMessageDTO.cs",
+              "RelativeToolTip": "APDSys.Model\\DTO\\Message\\GetMessageDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:25:44.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateMessageDTO.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\Message\\CreateMessageDTO.cs",
+              "RelativeDocumentMoniker": "APDSys.Model\\DTO\\Message\\CreateMessageDTO.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\Message\\CreateMessageDTO.cs",
+              "RelativeToolTip": "APDSys.Model\\DTO\\Message\\CreateMessageDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:25:00.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GeneralServiceResponseDTO.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\General\\GeneralServiceResponseDTO.cs",
+              "RelativeDocumentMoniker": "APDSys.Model\\DTO\\General\\GeneralServiceResponseDTO.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\General\\GeneralServiceResponseDTO.cs",
+              "RelativeToolTip": "APDSys.Model\\DTO\\General\\GeneralServiceResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:21:09.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateRoleDTO.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\Auth\\UpdateRoleDTO.cs",
+              "RelativeDocumentMoniker": "APDSys.Model\\DTO\\Auth\\UpdateRoleDTO.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\Auth\\UpdateRoleDTO.cs",
+              "RelativeToolTip": "APDSys.Model\\DTO\\Auth\\UpdateRoleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:17:02.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\Auth\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "APDSys.Model\\DTO\\Auth\\RegisterDTO.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\Auth\\RegisterDTO.cs",
+              "RelativeToolTip": "APDSys.Model\\DTO\\Auth\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:13:10.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MeDTO.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\Auth\\MeDTO.cs",
+              "RelativeDocumentMoniker": "APDSys.Model\\DTO\\Auth\\MeDTO.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\Auth\\MeDTO.cs",
+              "RelativeToolTip": "APDSys.Model\\DTO\\Auth\\MeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:12:38.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserInfoResult.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\Auth\\UserInfoResult.cs",
+              "RelativeDocumentMoniker": "APDSys.Model\\DTO\\Auth\\UserInfoResult.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\Auth\\UserInfoResult.cs",
+              "RelativeToolTip": "APDSys.Model\\DTO\\Auth\\UserInfoResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:10:21.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginServiceResponseDTO.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\Auth\\LoginServiceResponseDTO.cs",
+              "RelativeDocumentMoniker": "APDSys.Model\\DTO\\Auth\\LoginServiceResponseDTO.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\Auth\\LoginServiceResponseDTO.cs",
+              "RelativeToolTip": "APDSys.Model\\DTO\\Auth\\LoginServiceResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:09:02.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\Auth\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "APDSys.Model\\DTO\\Auth\\LoginDTO.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\Auth\\LoginDTO.cs",
+              "RelativeToolTip": "APDSys.Model\\DTO\\Auth\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:06:32.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\Domain\\Message.cs",
+              "RelativeDocumentMoniker": "APDSys.Model\\Domain\\Message.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\Domain\\Message.cs",
+              "RelativeToolTip": "APDSys.Model\\Domain\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:24:05.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\Domain\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "APDSys.Model\\Domain\\ApplicationUser.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\Domain\\ApplicationUser.cs",
+              "RelativeToolTip": "APDSys.Model\\Domain\\ApplicationUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:15:14.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ADPSys.DataAccess\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ADPSys.DataAccess\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwC8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:28:28.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "APDSys.Model\\Domain\\BaseEntity.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\Domain\\BaseEntity.cs",
+              "RelativeToolTip": "APDSys.Model\\Domain\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:21:00.036Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 292,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 193,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 116,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

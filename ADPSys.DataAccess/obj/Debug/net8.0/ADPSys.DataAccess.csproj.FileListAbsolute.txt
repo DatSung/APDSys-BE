@@ -1,0 +1,17 @@
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\ADPSys.DataAccess\bin\Debug\net8.0\ADPSys.DataAccess.deps.json
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\ADPSys.DataAccess\bin\Debug\net8.0\ADPSys.DataAccess.runtimeconfig.json
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\ADPSys.DataAccess\bin\Debug\net8.0\ADPSys.DataAccess.dll
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\ADPSys.DataAccess\bin\Debug\net8.0\ADPSys.DataAccess.pdb
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\ADPSys.DataAccess\bin\Debug\net8.0\APDSys.Model.dll
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\ADPSys.DataAccess\bin\Debug\net8.0\APDSys.Model.pdb
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\ADPSys.DataAccess\obj\Debug\net8.0\ADPSys.DataAccess.csproj.AssemblyReference.cache
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\ADPSys.DataAccess\obj\Debug\net8.0\ADPSys.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\ADPSys.DataAccess\obj\Debug\net8.0\ADPSys.DataAccess.AssemblyInfoInputs.cache
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\ADPSys.DataAccess\obj\Debug\net8.0\ADPSys.DataAccess.AssemblyInfo.cs
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\ADPSys.DataAccess\obj\Debug\net8.0\ADPSys.DataAccess.csproj.CoreCompileInputs.cache
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\ADPSys.DataAccess\obj\Debug\net8.0\ADPSys.D.1A2F5459.Up2Date
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\ADPSys.DataAccess\obj\Debug\net8.0\ADPSys.DataAccess.dll
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\ADPSys.DataAccess\obj\Debug\net8.0\refint\ADPSys.DataAccess.dll
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\ADPSys.DataAccess\obj\Debug\net8.0\ADPSys.DataAccess.pdb
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\ADPSys.DataAccess\obj\Debug\net8.0\ADPSys.DataAccess.genruntimeconfig.cache
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\ADPSys.DataAccess\obj\Debug\net8.0\ref\ADPSys.DataAccess.dll

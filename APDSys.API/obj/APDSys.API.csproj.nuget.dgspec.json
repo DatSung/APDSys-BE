@@ -1,0 +1,390 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\APDSys.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\ADPSys.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\ADPSys.DataAccess.csproj",
+        "projectName": "ADPSys.DataAccess",
+        "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\ADPSys.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\uinic\\.nuget\\packages\\",
+        "outputPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\uinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\APDSys.Model.csproj": {
+                "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\APDSys.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\APDSys.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\APDSys.API.csproj",
+        "projectName": "APDSys.API",
+        "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\APDSys.API.csproj",
+        "packagesPath": "C:\\Users\\uinic\\.nuget\\packages\\",
+        "outputPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\uinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\ADPSys.DataAccess.csproj": {
+                "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\ADPSys.DataAccess.csproj"
+              },
+              "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\APDSys.Service.csproj": {
+                "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\APDSys.Service.csproj"
+              },
+              "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Utility\\APDSys.Utility.csproj": {
+                "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Utility\\APDSys.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\APDSys.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\APDSys.Model.csproj",
+        "projectName": "APDSys.Model",
+        "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\APDSys.Model.csproj",
+        "packagesPath": "C:\\Users\\uinic\\.nuget\\packages\\",
+        "outputPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\uinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\APDSys.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\APDSys.Service.csproj",
+        "projectName": "APDSys.Service",
+        "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\APDSys.Service.csproj",
+        "packagesPath": "C:\\Users\\uinic\\.nuget\\packages\\",
+        "outputPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\uinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\ADPSys.DataAccess.csproj": {
+                "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\ADPSys.DataAccess.csproj"
+              },
+              "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\APDSys.Model.csproj": {
+                "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\APDSys.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Utility\\APDSys.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Utility\\APDSys.Utility.csproj",
+        "projectName": "APDSys.Utility",
+        "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Utility\\APDSys.Utility.csproj",
+        "packagesPath": "C:\\Users\\uinic\\.nuget\\packages\\",
+        "outputPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\uinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
