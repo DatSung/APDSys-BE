@@ -158,11 +158,7 @@ namespace APDSys.API.Controllers
         public async Task<ActionResult<IEnumerable<string>>> GetUserNames()
         {
             var userNames = await _authService.GetUserNamesAsync();
-
             return Ok(userNames);
         }
-
-
-
     }
 }

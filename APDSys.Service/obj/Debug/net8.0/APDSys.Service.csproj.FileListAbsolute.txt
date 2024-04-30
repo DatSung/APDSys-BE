@@ -8,7 +8,6 @@ D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Deb
 D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Debug\net8.0\APDSys.Service.AssemblyInfoInputs.cache
 D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Debug\net8.0\APDSys.Service.AssemblyInfo.cs
 D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Debug\net8.0\APDSys.Service.csproj.CoreCompileInputs.cache
-D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Debug\net8.0\APDSys.S.AA4D90F6.Up2Date
 D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Debug\net8.0\APDSys.Service.dll
 D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Debug\net8.0\refint\APDSys.Service.dll
 D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Debug\net8.0\APDSys.Service.pdb
@@ -18,3 +17,4 @@ D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\bin\Deb
 D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Debug\net8.0\APDSys.Service.sourcelink.json
 D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\bin\Debug\net8.0\APDSys.Utility.dll
 D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\bin\Debug\net8.0\APDSys.Utility.pdb
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Service\obj\Debug\net8.0\APDSys.Service.csproj.CopyComplete

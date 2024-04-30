@@ -9,3 +9,4 @@ D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Utility\obj\Deb
 D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Utility\obj\Debug\net8.0\refint\APDSys.Utility.dll
 D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Utility\obj\Debug\net8.0\APDSys.Utility.pdb
 D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Utility\obj\Debug\net8.0\ref\APDSys.Utility.dll
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.Utility\obj\Debug\net8.0\APDSys.Utility.sourcelink.json
