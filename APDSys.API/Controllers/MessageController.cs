@@ -47,7 +47,7 @@ namespace APDSys.API.Controllers
         [Authorize]
         public async Task<ActionResult<IEnumerable<GetMessageDTO>>> GetMyMessages()
         {
-            var messages = _messageService.GetMyMessagesAsync(User);
+            var messages = await _messageService.GetMyMessagesAsync(User);
 
             return Ok(messages);
         }
@@ -64,6 +64,5 @@ namespace APDSys.API.Controllers
 
             return Ok(messages);
         }
-
     }
 }
