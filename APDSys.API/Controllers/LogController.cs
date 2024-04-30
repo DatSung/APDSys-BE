@@ -8,17 +8,5 @@ namespace APDSys.API.Controllers
     [ApiController]
     public class LogController : ControllerBase
     {
-        private readonly ILogService _logService;
-
-        public LogController(ILogService logService)
-        {
-            _logService = logService;
-        }
-
-        [HttpGet]
-        public async Task<IActionResult> GetAll()
-        {
-            return Ok(await _logService.GetLogsAsync());
-        }
     }
 }

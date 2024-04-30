@@ -17,6 +17,7 @@
     <ProjectReference Include="..\APDSys.Model\APDSys.Model.csproj">
       <Private>True</Private>
     </ProjectReference>
+    <ProjectReference Include="..\APDSys.Utility\APDSys.Utility.csproj" />
   </ItemGroup>
 
 </Project>

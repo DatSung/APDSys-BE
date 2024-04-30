@@ -11,7 +11,7 @@ namespace APDSys.Service.IService
 {
     public interface IMessageService
     {
-        Task<GeneralServiceResponseDTO> CreateNeMessageAysnc(ClaimsPrincipal user, CreateMessageDTO createMessageDTO);
+        Task<GeneralServiceResponseDTO> CreateMessageAysnc(ClaimsPrincipal user, CreateMessageDTO createMessageDTO);
         Task<IEnumerable<GetMessageDTO>> GetMessagesAsync();
         Task<IEnumerable<GetMessageDTO>> GetMyMessagesAsync(ClaimsPrincipal user);
     }

@@ -118,14 +118,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\ADPSys.DataAccess.csproj": {
-                "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\ADPSys.DataAccess.csproj"
-              },
               "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\APDSys.Service.csproj": {
                 "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\APDSys.Service.csproj"
-              },
-              "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Utility\\APDSys.Utility.csproj": {
-                "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Utility\\APDSys.Utility.csproj"
               }
             }
           }
@@ -282,6 +276,9 @@
               },
               "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\APDSys.Model.csproj": {
                 "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\APDSys.Model.csproj"
+              },
+              "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Utility\\APDSys.Utility.csproj": {
+                "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Utility\\APDSys.Utility.csproj"
               }
             }
           }

@@ -13,11 +13,11 @@ namespace APDSys.Service.IService
     {
         Task<GeneralServiceResponseDTO> SeedRolesAsync();
         Task<GeneralServiceResponseDTO> RegisterAsync(RegisterDTO registerDTO);
-        Task<LoginServiceResponseDTO> LoginAsync(LoginDTO loginDTO);
+        Task<LoginServiceResponseDTO?> LoginAsync(LoginDTO loginDTO);
         Task<GeneralServiceResponseDTO> UpdateRoleAsync(ClaimsPrincipal User, UpdateRoleDTO updateRoleDTO);
-        Task<LoginServiceResponseDTO> MeAsycn(MeDTO meDTO);
+        Task<LoginServiceResponseDTO?> MeAsycn(MeDTO meDTO);
         Task<IEnumerable<UserInfoResult>> GetUsersAsync();
-        Task<UserInfoResult> GetUserByUsernameAsync(string userName);
+        Task<UserInfoResult?> GetUserByUsernameAsync(string userName);
         Task<IEnumerable<string>> GetUserNamesAsync();
     }
 }

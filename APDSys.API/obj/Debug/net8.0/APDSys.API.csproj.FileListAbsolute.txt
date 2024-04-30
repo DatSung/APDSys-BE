@@ -151,3 +151,4 @@ D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.API\bin\Debug\n
 D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.API\bin\Debug\net8.0\APDSys.Service.dll
 D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.API\bin\Debug\net8.0\APDSys.Service.pdb
 D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.API\bin\Debug\net8.0\AutoMapper.dll
+D:\Outside_Sources\ASPNET_Core_API\Handon-Projects\APDSys\APDSys.API\obj\Debug\net8.0\APDSys.API.sourcelink.json

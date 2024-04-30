@@ -1692,6 +1692,7 @@
         "dependencies": {
           "ADPSys.DataAccess": "1.0.0",
           "APDSys.Model": "1.0.0",
+          "APDSys.Utility": "1.0.0",
           "AutoMapper": "13.0.1"
         },
         "compile": {
@@ -4506,9 +4507,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "ADPSys.DataAccess >= 1.0.0",
       "APDSys.Service >= 1.0.0",
-      "APDSys.Utility >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.4",
       "Microsoft.AspNetCore.OpenApi >= 8.0.4",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.4",
@@ -4542,14 +4541,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\ADPSys.DataAccess.csproj": {
-              "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\ADPSys.DataAccess\\ADPSys.DataAccess.csproj"
-            },
             "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\APDSys.Service.csproj": {
               "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\APDSys.Service.csproj"
-            },
-            "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Utility\\APDSys.Utility.csproj": {
-              "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Utility\\APDSys.Utility.csproj"
             }
           }
         }

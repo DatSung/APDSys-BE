@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APDSys.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61bf3b7300738a036f744b49024f8cb60d86c203")]
 [assembly: System.Reflection.AssemblyProductAttribute("APDSys.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APDSys.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

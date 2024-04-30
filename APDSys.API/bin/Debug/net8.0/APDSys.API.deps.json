@@ -8,9 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "APDSys.API/1.0.0": {
         "dependencies": {
-          "ADPSys.DataAccess": "1.0.0",
           "APDSys.Service": "1.0.0",
-          "APDSys.Utility": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.4",
           "Microsoft.AspNetCore.OpenApi": "8.0.4",
           "Microsoft.EntityFrameworkCore.Design": "8.0.4",
@@ -1001,6 +999,7 @@
         "dependencies": {
           "ADPSys.DataAccess": "1.0.0",
           "APDSys.Model": "1.0.0",
+          "APDSys.Utility": "1.0.0",
           "AutoMapper": "13.0.1"
         },
         "runtime": {

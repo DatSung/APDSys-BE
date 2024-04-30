@@ -38,6 +38,9 @@ builder.Services.AddAutoMapper(typeof(AutoMapperProfiles));
 // Dependency Injection
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<ILogService, LogService>();
+builder.Services.AddScoped<IMessageService, MessageService>();
+builder.Services.AddScoped<IAuthService, AuthService>();
+
 
 // Add Identity
 builder.Services

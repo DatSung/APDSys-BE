@@ -42,7 +42,6 @@ namespace APDSys.Service.Service
         {
             var logs = await _unitOfWork.LogRepository.GetAllAsync();
 
-
             var logsDTO = _mapper.Map<List<GetLogDTO>>(logs).OrderByDescending(x => x.CreatedAt);
 
             return logsDTO;

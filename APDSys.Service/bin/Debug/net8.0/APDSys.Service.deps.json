@@ -10,6 +10,7 @@
         "dependencies": {
           "ADPSys.DataAccess": "1.0.0",
           "APDSys.Model": "1.0.0",
+          "APDSys.Utility": "1.0.0",
           "AutoMapper": "13.0.1"
         },
         "runtime": {
@@ -647,6 +648,11 @@
         "runtime": {
           "APDSys.Model.dll": {}
         }
+      },
+      "APDSys.Utility/1.0.0": {
+        "runtime": {
+          "APDSys.Utility.dll": {}
+        }
       }
     }
   },
@@ -1089,6 +1095,11 @@
       "sha512": ""
     },
     "APDSys.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "APDSys.Utility/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

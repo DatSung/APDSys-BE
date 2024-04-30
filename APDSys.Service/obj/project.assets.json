@@ -1113,6 +1113,16 @@
         "runtime": {
           "bin/placeholder/APDSys.Model.dll": {}
         }
+      },
+      "APDSys.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/APDSys.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/APDSys.Utility.dll": {}
+        }
       }
     }
   },
@@ -2983,12 +2993,18 @@
       "type": "project",
       "path": "../APDSys.Model/APDSys.Model.csproj",
       "msbuildProject": "../APDSys.Model/APDSys.Model.csproj"
+    },
+    "APDSys.Utility/1.0.0": {
+      "type": "project",
+      "path": "../APDSys.Utility/APDSys.Utility.csproj",
+      "msbuildProject": "../APDSys.Utility/APDSys.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "ADPSys.DataAccess >= 1.0.0",
       "APDSys.Model >= 1.0.0",
+      "APDSys.Utility >= 1.0.0",
       "AutoMapper >= 13.0.1"
     ]
   },
@@ -3024,6 +3040,9 @@
             },
             "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\APDSys.Model.csproj": {
               "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\APDSys.Model.csproj"
+            },
+            "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Utility\\APDSys.Utility.csproj": {
+              "projectPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Utility\\APDSys.Utility.csproj"
             }
           }
         }

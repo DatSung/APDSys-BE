@@ -17,14 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ADPSys.DataAccess\ADPSys.DataAccess.csproj">
-      <Private>True</Private>
-    </ProjectReference>
     <ProjectReference Include="..\APDSys.Service\APDSys.Service.csproj">
       <Private>True</Private>
-    </ProjectReference>
-    <ProjectReference Include="..\APDSys.Utility\APDSys.Utility.csproj">
-      <CopyLocalSatelliteAssemblies>True</CopyLocalSatelliteAssemblies>
     </ProjectReference>
   </ItemGroup>
 
