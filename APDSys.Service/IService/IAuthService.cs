@@ -15,7 +15,7 @@ namespace APDSys.Service.IService
         Task<GeneralServiceResponseDTO> RegisterAsync(RegisterDTO registerDTO);
         Task<LoginServiceResponseDTO?> LoginAsync(LoginDTO loginDTO);
         Task<GeneralServiceResponseDTO> UpdateRoleAsync(ClaimsPrincipal User, UpdateRoleDTO updateRoleDTO);
-        Task<LoginServiceResponseDTO?> MeAsycn(MeDTO meDTO);
+        Task<LoginServiceResponseDTO?> MeAsync(MeDTO meDTO);
         Task<IEnumerable<UserInfoResult>> GetUsersAsync();
         Task<UserInfoResult?> GetUserByUsernameAsync(string userName);
         Task<IEnumerable<string>> GetUserNamesAsync();

@@ -237,7 +237,7 @@ namespace APDSys.Service.Service
             }
         }
 
-        public async Task<LoginServiceResponseDTO?> MeAsycn(MeDTO meDTO)
+        public async Task<LoginServiceResponseDTO?> MeAsync(MeDTO meDTO)
         {
             ClaimsPrincipal handler = new JwtSecurityTokenHandler()
                 .ValidateToken(meDTO.Token, new TokenValidationParameters()
