@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|solutionrelative:apdsys.service\\service\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|d:\\outside_sources\\aspnet_core_api\\handon-projects\\apdsys\\apdsys.service\\iservice\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.service\\iservice\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|solutionrelative:apdsys.service\\iservice\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|solutionrelative:apdsys.service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|d:\\outside_sources\\aspnet_core_api\\handon-projects\\apdsys\\apdsys.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|solutionrelative:apdsys.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,15 +27,15 @@
       "RelativeMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|solutionrelative:apdsys.service\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|d:\\outside_sources\\aspnet_core_api\\handon-projects\\apdsys\\apdsys.api\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.api\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|solutionrelative:apdsys.api\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|d:\\outside_sources\\aspnet_core_api\\handon-projects\\apdsys\\apdsys.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|solutionrelative:apdsys.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|d:\\outside_sources\\aspnet_core_api\\handon-projects\\apdsys\\apdsys.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|solutionrelative:apdsys.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -86,8 +86,7 @@
               "RelativeToolTip": "APDSys.Service\\IService\\IMessageService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T08:24:42.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T08:24:42.889Z"
             },
             {
               "$type": "Document",
@@ -99,8 +98,7 @@
               "RelativeToolTip": "APDSys.API\\Controllers\\AuthController.cs",
               "ViewState": "AQIAAKgAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T07:52:48.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T07:52:48.421Z"
             },
             {
               "$type": "Document",
@@ -110,7 +108,7 @@
               "RelativeDocumentMoniker": "APDSys.API\\Controllers\\MessageController.cs",
               "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\Controllers\\MessageController.cs",
               "RelativeToolTip": "APDSys.API\\Controllers\\MessageController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDYAAAAVAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwEUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T07:43:22.124Z",
               "EditorCaption": ""
@@ -125,8 +123,7 @@
               "RelativeToolTip": "APDSys.API\\Controllers\\LogController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T07:35:57.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T07:35:57.952Z"
             },
             {
               "$type": "Document",
@@ -138,8 +135,7 @@
               "RelativeToolTip": "APDSys.Service\\IService\\IAuthService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T04:26:49.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T04:26:49.429Z"
             },
             {
               "$type": "Document",
@@ -151,8 +147,7 @@
               "RelativeToolTip": "APDSys.Service\\Service\\MessageService.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAAwCcAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T03:47:34.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T03:47:34.093Z"
             },
             {
               "$type": "Document",
@@ -164,8 +159,7 @@
               "RelativeToolTip": "APDSys.API\\Controllers\\TestController.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAQwCgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T07:29:20.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T07:29:20.571Z"
             },
             {
               "$type": "Document",
@@ -177,8 +171,7 @@
               "RelativeToolTip": "APDSys.API\\Program.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAUwEAAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T05:30:34.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T05:30:34.011Z"
             },
             {
               "$type": "Document",
@@ -190,8 +183,7 @@
               "RelativeToolTip": "APDSys.Service\\Service\\AuthService.cs",
               "ViewState": "AQIAAOkAAAAAAAAAAAAAAPEAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T03:45:46.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T03:45:46.855Z"
             },
             {
               "$type": "Document",
