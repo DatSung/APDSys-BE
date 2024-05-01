@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ADPSys.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22861cf5d782ca3b6c80e395e4c9d4baa1bf74b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+898db4be85192307db7f92955aacc134e4f5fbde")]
 [assembly: System.Reflection.AssemblyProductAttribute("ADPSys.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ADPSys.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
