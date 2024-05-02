@@ -146,7 +146,7 @@ namespace APDSys.Service.Service
             return new LoginServiceResponseDTO()
             {
                 NewToken = token,
-                UserInfoResult = userInfo,
+                UserInfo = userInfo,
             };
         }
 
@@ -275,7 +275,7 @@ namespace APDSys.Service.Service
             return new LoginServiceResponseDTO()
             {
                 NewToken = token,
-                UserInfoResult = userInfo
+                UserInfo = userInfo
             };
         }
 

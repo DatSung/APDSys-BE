@@ -11,6 +11,6 @@ namespace APDSys.Model.DTO.Auth
         public string NewToken { get; set; }
         
         // This would be returned to front-end
-        public UserInfoResult UserInfoResult { get; set; }
+        public UserInfoResult UserInfo { get; set; }
     }
 }
