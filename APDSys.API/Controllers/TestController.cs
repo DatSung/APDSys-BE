@@ -1,6 +1,5 @@
 ﻿using APDSys.Utility.Constants;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace APDSys.API.Controllers

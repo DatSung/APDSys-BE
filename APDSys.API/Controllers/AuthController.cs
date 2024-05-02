@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace APDSys.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("apdsys/[controller]")]
     [ApiController]
     public class AuthController : ControllerBase
     {
