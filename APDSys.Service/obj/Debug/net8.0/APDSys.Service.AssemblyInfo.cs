@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APDSys.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b442706cb7b64fc52149d5e157718bd8b46e0dd5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+682016f92342b5869b557466b7436c5883ac7bf8")]
 [assembly: System.Reflection.AssemblyProductAttribute("APDSys.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APDSys.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
