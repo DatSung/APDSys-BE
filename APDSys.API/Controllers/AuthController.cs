@@ -134,7 +134,7 @@ namespace APDSys.API.Controllers
         /// <param name="userName"></param>
         /// <returns></returns>
         [HttpGet]
-        [Route("user/{userName}")]
+        [Route("users/{userName}")]
         public async Task<ActionResult<UserInfoResult>> GetUserByUserName([FromRoute] string userName)
         {
             var user = await _authService.GetUserByUsernameAsync(userName);
