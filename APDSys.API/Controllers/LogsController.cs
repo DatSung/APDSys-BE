@@ -9,11 +9,11 @@ namespace APDSys.API.Controllers
 {
     [Route("apdsys/[controller]")]
     [ApiController]
-    public class LogController : ControllerBase
+    public class LogsController : ControllerBase
     {
         private readonly ILogService _logService;
 
-        public LogController(ILogService logService)
+        public LogsController(ILogService logService)
         {
             _logService = logService;
         }
