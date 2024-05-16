@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|solutionrelative:apdsys.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|solutionrelative:apdsys.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.service\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|d:\\outside_sources\\aspnet_core_api\\handon-projects\\apdsys\\apdsys.service\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|solutionrelative:apdsys.service\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.service\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|solutionrelative:apdsys.service\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.model\\dto\\auth\\loginserviceresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|solutionrelative:apdsys.model\\dto\\auth\\loginserviceresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A542C80-E010-461D-B7E1-5F97E3B86A0C}|APDSys.Utility\\APDSys.Utility.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.utility\\constants\\staticuserroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A542C80-E010-461D-B7E1-5F97E3B86A0C}|APDSys.Utility\\APDSys.Utility.csproj|solutionrelative:apdsys.utility\\constants\\staticuserroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.model\\dto\\auth\\loginserviceresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D38BE02-CE26-4F7A-BA6B-0F8038E8D918}|APDSys.Model\\APDSys.Model.csproj|solutionrelative:apdsys.model\\dto\\auth\\loginserviceresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D778DEE-93E0-423F-8430-92C01C7F0D94}|APDSys.API\\APDSys.API.csproj|solutionrelative:apdsys.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.service\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|solutionrelative:apdsys.service\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEF2311A-65EB-48B4-B515-D9C5EE98992C}|APDSys.Service\\APDSys.Service.csproj|D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\apdsys.service\\service\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 362,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,26 +54,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "APDSys.Service\\Service\\AuthService.cs",
+              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\Service\\AuthService.cs",
+              "RelativeToolTip": "APDSys.Service\\Service\\AuthService.cs",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAuwBcBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T03:45:46.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "APDSys.API\\Controllers\\AuthController.cs",
               "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\Controllers\\AuthController.cs",
               "RelativeToolTip": "APDSys.API\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T07:52:48.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T07:52:48.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\Program.cs",
               "RelativeDocumentMoniker": "APDSys.API\\Program.cs",
               "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.API\\Program.cs",
               "RelativeToolTip": "APDSys.API\\Program.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAUwEAAAAADAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T05:30:34.011Z",
               "EditorCaption": ""
@@ -81,19 +93,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\Service\\AuthService.cs",
-              "RelativeDocumentMoniker": "APDSys.Service\\Service\\AuthService.cs",
-              "ToolTip": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\Service\\AuthService.cs",
-              "RelativeToolTip": "APDSys.Service\\Service\\AuthService.cs",
-              "ViewState": "AQIAAOkAAAAAAAAAAAAAAPEAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T03:45:46.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "LoginServiceResponseDTO.cs",
               "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Model\\DTO\\Auth\\LoginServiceResponseDTO.cs",
               "RelativeDocumentMoniker": "APDSys.Model\\DTO\\Auth\\LoginServiceResponseDTO.cs",
@@ -105,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "StaticUserRoles.cs",
               "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Utility\\Constants\\StaticUserRoles.cs",
               "RelativeDocumentMoniker": "APDSys.Utility\\Constants\\StaticUserRoles.cs",
@@ -116,8 +115,12 @@
               "WhenOpened": "2024-04-30T04:10:05.42Z"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AutoMapperProfiles.cs",
               "DocumentMoniker": "D:\\Outside_Sources\\ASPNET_Core_API\\Handon-Projects\\APDSys\\APDSys.Service\\Mappings\\AutoMapperProfiles.cs",
               "RelativeDocumentMoniker": "APDSys.Service\\Mappings\\AutoMapperProfiles.cs",
